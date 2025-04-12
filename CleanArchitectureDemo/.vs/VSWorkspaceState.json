@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CleanArchitectureDemo.Api",
+    "\\CleanArchitectureDemo.Application",
+    "\\CleanArchitectureDemo.Domain",
+    "\\CleanArchitectureDemo.Infrastructure"
+  ],
+  "SelectedNode": "\\CleanArchitectureDemo.Infrastructure",
+  "PreviewInSolutionExplorer": false
+}

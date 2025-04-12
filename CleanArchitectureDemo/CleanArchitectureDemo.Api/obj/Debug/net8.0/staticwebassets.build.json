@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "307zHF3WqB6iko7NeOND7fveba59GGsqyNz4yAw9zZE=",
+  "Source": "CleanArchitectureDemo.Api",
+  "BasePath": "_content/CleanArchitectureDemo.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
